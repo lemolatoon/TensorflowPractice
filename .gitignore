@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# log file for tensorboard
+sin_function/logs/*
+
+# tensorflow weights
+sin_function/weights/*
